@@ -1,6 +1,6 @@
-## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+## 99 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
-***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
+***99 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 
 ![](https://github.com/ashutosh9151/500-AI-ML-DL-CV-NLP-Projects-with-Code/blob/afda0b6d67630e85ab3d2e810ec28a9a872c3cf8/images/Tech_image.gif)
 
