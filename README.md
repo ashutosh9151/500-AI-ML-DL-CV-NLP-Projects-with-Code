@@ -2,7 +2,7 @@
 
 ***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 
-![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
+![](https://github.com/ashutosh9151/500-AI-ML-DL-CV-NLP-Projects-with-Code/blob/afda0b6d67630e85ab3d2e810ec28a9a872c3cf8/images/Tech_image.gif)
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-prajapati-944285310)
 
