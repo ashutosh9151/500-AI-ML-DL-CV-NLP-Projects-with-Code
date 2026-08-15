@@ -4,7 +4,7 @@
 
 ![](https://github.com/ashutosh9151/500-AI-ML-DL-CV-NLP-Projects-with-Code/blob/afda0b6d67630e85ab3d2e810ec28a9a872c3cf8/images/Tech_image.gif)
 
-Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-prajapati-944285310)
+FOLLOW ME ON LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-prajapati-944285310)
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 
